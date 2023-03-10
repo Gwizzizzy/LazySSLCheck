@@ -14,4 +14,4 @@ Requires:
  
 Usage:
 
-$ python3 lazysslcheck.py [IP ADDRESS] [PORT]
+> $ python3 lazysslcheck.py [IP ADDRESS] [PORT]
