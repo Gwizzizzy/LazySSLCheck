@@ -4,10 +4,11 @@ A tool to quickly identify which insecure TLS versions are in use, as well as in
 Requires:
 - sslscan
 - Python3
-  Modules:
-  > requests
-  > os
-  > re
-  > argparse
-  > colorama
+  
+ Python3 Required Modules:
+- requests
+- os
+- re
+- argparse
+- colorama
  
